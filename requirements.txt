@@ -7,7 +7,6 @@
 pandas
 matplotlib
 numpy
-math
 datetime
 os
 os.path
