@@ -8,8 +8,7 @@ pandas
 matplotlib
 numpy
 datetime
-os
-os.path
+os.path==3.8
 ipywidgets
 sys
 PyQt6.QtWidgets
