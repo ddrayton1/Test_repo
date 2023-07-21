@@ -20,3 +20,5 @@ PyQt6.QtGui
 IPython.display
 mpl_interactions.ipyplot
 functools
+voila
+ipympl
