@@ -6,7 +6,6 @@
 #
 pandas
 matplotlib
-matplotlib.pyplot
 numpy
 math
 datetime
