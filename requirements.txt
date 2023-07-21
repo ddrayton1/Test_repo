@@ -10,8 +10,8 @@ numpy
 datetime
 ipywidgets
 PyQt6
-IPython.display
-mpl_interactions.ipyplot
+IPython
+mpl_interactions
 functools
 voila
 ipympl
