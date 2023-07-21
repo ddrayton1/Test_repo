@@ -9,9 +9,7 @@ matplotlib
 numpy
 datetime
 ipywidgets
-PyQt6.QtWidgets
-PyQt6.QtCore
-PyQt6.QtGui 
+PyQt6
 IPython.display
 mpl_interactions.ipyplot
 functools
